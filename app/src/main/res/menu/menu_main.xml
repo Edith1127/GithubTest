@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.user.homework2.MainActivity">
+    <item
+        android:id="@+id/to_2nd_activity"
+        android:orderInCategory="100"
+        android:title="To 2nd Activity"
+        app:showAsAction="never" />
+</menu>
